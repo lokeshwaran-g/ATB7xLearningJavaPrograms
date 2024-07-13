@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="46f4f0e1-ab3a-4abe-bf7c-3e1b9ca518c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATB7xLearningJavaPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024.java" afterDir="false" />
+    <list default="true" id="46f4f0e1-ab3a-4abe-bf7c-3e1b9ca518c2" name="Changes" comment="all files added">
+      <change afterPath="$PROJECT_DIR$/src/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +36,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lokeshwaran-g&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lokeshwaran-g/ATB7xLearningJavaPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;46a4acbb-8e36-4457-aa5b-00b87922a150&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Lab005.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -40,6 +66,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab001.executor": "Run",
+    "Application.Lab003.executor": "Run",
+    "Application.Lab004.executor": "Run",
+    "Application.Lab005.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab008.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Lab010.executor": "Run",
+    "Application.Lab011.executor": "Run",
+    "Application.Lab012.executor": "Run",
+    "Application.Lab013.executor": "Run",
+    "Application.Lab014.executor": "Run",
+    "Application.Lab015.executor": "Run",
     "Application.ex_07072024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -50,9 +89,37 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab001" />
+  <component name="RunManager" selected="Application.Lab015">
+    <configuration name="Lab011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab011" />
+      <module name="ATB7xLearningJavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab012" />
+      <module name="ATB7xLearningJavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab013" />
+      <module name="ATB7xLearningJavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab014" />
+      <module name="ATB7xLearningJavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab015" />
       <module name="ATB7xLearningJavaPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,7 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab001" />
+        <item itemvalue="Application.Lab015" />
+        <item itemvalue="Application.Lab014" />
+        <item itemvalue="Application.Lab013" />
+        <item itemvalue="Application.Lab012" />
+        <item itemvalue="Application.Lab011" />
       </list>
     </recent_temporary>
   </component>
@@ -73,6 +144,27 @@
       <option name="presentableId" value="Default" />
       <updated>1720336066038</updated>
     </task>
+    <task id="LOCAL-00001" summary="all files added">
+      <option name="closed" value="true" />
+      <created>1720336561354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720336561355</updated>
+    </task>
+    <task id="LOCAL-00002" summary="all files added">
+      <option name="closed" value="true" />
+      <created>1720336688715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720336688715</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="all files added" />
   </component>
 </project>
